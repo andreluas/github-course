@@ -3,7 +3,7 @@ Este é um repositório teste para treinamento/aprendizado de como o Git funcion
 
 ### Professor: [Willian Justen](https://github.com/willianjusten)
 
-[![Banner](dist/img/banner-git-e-githubjpg)
+[![Banner](/img/banner-git-e-githubjpg)
 
 ### Seção 1 - Entendendo o que é o Git e Github ###
 * Introdução
@@ -37,4 +37,4 @@ Este é um repositório teste para treinamento/aprendizado de como o Git funcion
 * Movendo e deletando branches
 * Entendendo o merge
 * Entendendo o rebase
-* Merge e Resabe na prática
+* Merge e Rebase na prática
