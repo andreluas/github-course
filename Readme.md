@@ -3,7 +3,7 @@ Este é um repositório teste para treinamento/aprendizado de como o Git funcion
 
 ### Professor: [Willian Justen](https://github.com/willianjusten)
 
-![Banner](img/banner-git-e-githubjpg)
+![Banner](img/banner-git-e-github.jpg)
 
 ### Seção 1 - Entendendo o que é o Git e Github ###
 * Introdução
